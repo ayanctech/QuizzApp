@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="2"
-        android:text="Choose Category To proceed-->>"
+        android:text="Choose Category To proceed->>"
         android:textSize="40sp"
         android:textStyle="bold"
         android:gravity="center"
