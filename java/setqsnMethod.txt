@@ -1,0 +1,18 @@
+private void setQsns(int i) {
+        if(count<nos) {
+            count++;
+
+            String qsn = questionsArrayList.get(i).getQuestion();
+            textView_question.setText(qsn);
+            radioButton1.setText(questionsArrayList.get(i).getOption_A());
+            radioButton2.setText(questionsArrayList.get(i).getOption_B());
+            radioButton3.setText(questionsArrayList.get(i).getOption_C());
+            radioButton4.setText(questionsArrayList.get(i).getOption_D());
+        }
+        else{
+            Intent intent=new Intent(getApplicationContext(),score.class);
+            intent.putExtra("score",tot_score);
+            intent.putExtra("RootClassMsg","Rndm");
+            startActivity(intent);
+        }
+    }
