@@ -7,7 +7,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:id="@+id/bton1"
-        android:text="5 Second Test"
+        android:text="5 Seconds Test"
         android:textSize="30sp"
         android:background="#ef380f"/>
 
@@ -16,7 +16,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:id="@+id/bton2"
-        android:text="10 Second Test"
+        android:text="10 Seconds Test"
         android:textSize="30sp"
         android:background="#e0e724"/>
 
@@ -25,7 +25,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:id="@+id/bton3"
-        android:text="15 Second Test"
+        android:text="15 Seconds Test"
         android:textSize="30sp"
         android:background="#546543"/>
 </LinearLayout>
