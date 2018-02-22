@@ -1,0 +1,4 @@
+#Wed Feb 21 20:35:27 IST 2018
+base.0=E\:\\QuizProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=E\:\\QuizProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
